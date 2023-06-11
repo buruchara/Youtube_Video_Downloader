@@ -15,7 +15,7 @@ This is a simple YouTube video downloader application built using Python and the
 ## Usage
 Run the script using the following command:
 
-# python youtube_downloader.py
+# python Youtube_Video_Downloader.py
 
 -The application window will open.
 -Enter the URL of the YouTube video you want to download in the text entry field.
